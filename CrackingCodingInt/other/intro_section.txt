@@ -1,0 +1,110 @@
+INTRODUCTION:
+________________
+
+	(This is mainly going to be how I break down a lot of the sections. I also will not have grammarly or anything else running... so deal with it.)
+
+	- Although someone looks great on paper, it doesn't mean they're going to be insanely talented. They fail to consider edge cases and other implementations and/or efficient solutions to algos.... meaning they get rejected.
+
+	- Academic books won't prep you fo these interviews, only research. Interviewers couldn't care less about the academic merit.
+		- "To *CRACK THE CODING INTERVIEW*, you need to prepare with **real** interview questions. You have to practice with real problems and learn the patterns. It's about on the spot implementation and development, not memorization". (Basically...)
+
+THE INTERVIEW PROCESS:
+_______________
+
+	- Algo and coding probs are most of the int. process. They're problem solving questions that can be done with english easily, but code is a diff story. "Looking to eval your ability to solve algo probs you haven't seen before"
+
+	- You're most likely only going to get through one question.
+
+	- Do your best to talk through the problem and explain your thoughts. If someone jumps in, they're probably helping you (not dunking on you).
+
+	- Performance Assessmnet
+		a. Analytical Skill
+		b. Coding Skill
+		c. Tech and CS Fundies
+		d. Experience
+		e. Culture Fit and Communication
+
+	WHY ARE INTERVIEWS LIKE THIS?
+	- Big companies are concerned with posers getting through, not people talented enough getting dunked on.
+	- Problem solving skills are valuable
+	- Whiteboards help you drill down on what you need to do and not the more minute stuff
+
+
+	HOW ARE QUESTIONS SELECTED?
+	- The interviewer selects them or makes them. You can't just google what was the most recent question from x, y, z firm.
+		a. It's a free for all for questions
+	- Most of the questions are similar at all the top tech places
+
+	- How you do is relative to others and what the interviewer thinks of you.
+		a. Interviewer develops a feel comparing you to the others
+
+BEHIND THE SCENES:
+_________________
+
+	1. Selected to interview
+	2. Phone screen
+		- One or two before coming on-site
+	3. 3-6 interviews on-site, one of those being lunch
+	4. Hiring committee or they all get together and discuss
+
+	EX: Microsoft (would be so, so dope)
+	"Why do you want to work here?"
+		- I've used blah technology for so long and even recently i've discovered that I can do blah with blah!
+			a. Loop it back in to a passion for tech
+
+	- Your interview isn't judged on how many you got correct... it's all RELATIVE!
+
+GOOGLE INTERVIEW INSIGHT:
+________________________
+
+	- Same process as the other ones, but you enter each interview with a blank slate because no feedback is shared between interviews 
+	- Written feedback is sent to a HC of managers and engineers. AREAS
+		a. Analytical Ability
+		b. Coding
+		c. Experience
+		d. Communication
+		** All of these are graded between 1 and 4
+
+		i. They want to see at least one person who really likes you and who is an "enthusiastic endorser"
+		ii. Phone screen isn't typically as important
+
+	- Prepare on systems design and other scalability questions
+	- Know "Why Google?"
+
+FACEBOOK INT INSIGHT:
+____________________
+
+- Unique: Facebook sends you to a bootcamp to get up to speed with their code base. You get mentorship, learn practices, and then choose a project
+
+
+RESUME STUFF:
+_______________
+
+	- What they want?
+		a. Can you code?
+		b. Are you smart?
+
+	- Keep it to a page (unless you're at 10 years)
+	- Employment history
+		a. only include stuff that makes you look strong
+		b. write good bullets!
+			i. Approach -> "Did X by doing Y which ended up in Z"
+	- You should have 2-4 projects. 
+		a. what languages and frameworks did you use
+		b. individual or team
+		c. course or independent
+		d. Open source tho???
+
+LANGUAGES AND SOFTWARE:
+______________________
+
+	- Don't include that you know Office. Everybody knows Office.
+	- Make sure you're using valuable space for something that's valuable.
+
+	- Anything on your resume is fair game for questions... so be careful what you say
+	- say your level of knowledge
+		a. Python (expert), Java (proficient), Bash (...yeah)
+	- Don't be a one trick, focus on more than one language
+	- maybe don't do certs for languages and stuff
+	- Build things in more than two languages
+

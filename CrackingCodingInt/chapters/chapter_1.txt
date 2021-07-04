@@ -1,0 +1,8 @@
+HASH TABLES:
+______________
+
+Hash Table: Data structure that maps keys to values for an effective lookup.
+Implementations:
+	1. Compute the key's hash code, int or long. Two different keys can have the same hash code*
+	2. Map the hash code to an index in the array. 'hash(key) % array_length'
+	3. 
