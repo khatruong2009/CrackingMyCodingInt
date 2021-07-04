@@ -75,3 +75,22 @@ FACEBOOK INT INSIGHT:
 ____________________
 
 - Unique: Facebook sends you to a bootcamp to get up to speed with their code base. You get mentorship, learn practices, and then choose a project
+
+
+RESUME STUFF:
+_______________
+
+- What they want?
+	a. Can you code?
+	b. Are you smart?
+
+- Keep it to a page (unless you're at 10 years)
+- Employment history
+	a. only include stuff that makes you look strong
+	b. write good bullets!
+		i. Approach -> "Did X by doing Y which ended up in Z"
+- You should have 2-4 projects. 
+	a. what languages and frameworks did you use
+	b. individual or team
+	c. course or independent
+	d. Open source tho???
