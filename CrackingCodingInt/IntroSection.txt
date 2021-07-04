@@ -94,3 +94,17 @@ _______________
 	b. individual or team
 	c. course or independent
 	d. Open source tho???
+
+LANGUAGES AND SOFTWARE:
+______________________
+
+- Don't include that you know Office. Everybody knows Office.
+- Make sure you're using valuable space for something that's valuable.
+
+- Anything on your resume is fair game for questions... so be careful what you say
+- say your level of knowledge
+	a. Python (expert), Java (proficient), Bash (...yeah)
+- Don't be a one trick, focus on more than one language
+- maybe don't do certs for languages and stuff
+- Build things in more than two languages
+
