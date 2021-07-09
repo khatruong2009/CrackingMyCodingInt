@@ -2,13 +2,29 @@
 ______________
 
 1. Depth First Search
+
 2. Breadth First Search
+
 3. Matching Parenthesis problem
+	- Is that string of brackets closed?
+	- What's the next bracket that we need?
+	EX: Add the last parentheses to the stack
+
 4. Using Hash Tables
+
 5. Variables/Pointers manipulation
+
 6. reverse linked list (duplicates , removing duplicates)
+
 7. sorting fundamentals (quicksort, mergesort,bubblesort techniques ,
    runtime of a sort,time space complexity)
+	1. QuickSort: 
+
 8. Recursion
-9. custom data structures (object oriented programming)
+
+9. Custom Data Structures (OOP)
+
 10.Binary search
+	- Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise, narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.
+	- Given a sorted array, write a function to search element 'x' in array
+	
