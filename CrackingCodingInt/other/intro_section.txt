@@ -108,3 +108,81 @@ ______________________
 	- maybe don't do certs for languages and stuff
 	- Build things in more than two languages
 
+INTERVIEW GUIDE:
+____________________
+
+	- Admit an actual flaw in the 'what are your flaws question'
+		a. That you're arrogant or won't admit faults, but have done x, y, z to overcome
+			ex: Sometimes, I don't have a very good attention to detail. While that's good because it lets me execute quickly, it also means that I sometimes make careless mistakes.
+
+	- Asking questions when given the opportunity:
+		GENUINE QUESTIONS
+		a. What's the ratio to devs to PMs, how do you plan
+		b. what brought you here?
+
+		INSIGHTFUL QUESTIONS
+		a. I noticed you're using tech x, what about y?
+		b. why did you choose this over this? I know it has this, but many companies don't use it because...
+
+		PASSION QUESTIONS
+		a. I'm interested in scalability, what opportunities exist for my passion?
+		b. I'm not familiar with this one thing, but could you tell me how it works?
+
+	- Be specific about the things you've done, this is done by being a little more in depth about the project
+	- Limit the amount of detail that you tell and then if they want to ask more... they can
+
+	- Focus on your own contribution to what you've worked on in the past, not what the 'team' did.
+		a. They walk away not knowing what the fuck you did....
+
+
+PERSONAL PROJECTS:
+___________________
+
+	- Be able to talk about them in depth!
+		a. what was hard about them?
+		b. how would you do it differently?
+		c. How would you scale? Why did you choose the things you did?
+
+HOW TO ANSWER QUESTIONS:
+____________________
+
+	*** YOU NEED TO DEVELOP SOME STORIES TO WALK THROUGH
+
+	- You have to come about it from a structured sense.
+		1. Nugget First....
+			a. Your response gives a high level overview before diving into the meat of it
+	- SAR.... (Structured, Action, Result)
+		1. Situation: Give a high level as to what the situation was, setting up the other two sections
+		2. Action: I tried to do this, we acted on this, this was decided....
+		3. Result: How did what you ended up doing impact the overall project in the end?
+
+	- Think about projects and examples that are going to show some degree of ownership over everything!
+	
+	TELL ME ABOUT YOURSELF:
+	____________________________
+	
+	Structure:
+	1. Current Role: I'm a student at UPenn interested in ....
+		a. May want to talk about RQ
+	2. College: My degree is in CS......
+		a. TRY TO BE A MF FOUNDER
+	3. Post College and Onwards: What you want to do and what it's shown you
+	4. Current Role and the Details: what do you do
+	5. Outside of Work: What do you do and what's your passion
+	6. Wrap it up: I'm looking for something new.... blah blah
+
+	HOBBIES!
+	- Can super help with getting a good start to the interview!
+		a. Bonus if it's technical and niche. 
+
+
+to be continued....
+
+
+
+
+
+
+
+
+
