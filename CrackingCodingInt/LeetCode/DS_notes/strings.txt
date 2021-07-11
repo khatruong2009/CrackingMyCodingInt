@@ -1,0 +1,13 @@
+## String Data Structure
+
+How to declare a string in python:
+x = "huzzah"
+
+Arrays of bytes representing unicode characters. Characters don't exist in Python, so it's a string with a length of one.
+
+Accessing individual characters can be done by reference to the index value.
+	- ex: -1 is the last character
+x = "huzzah"
+print(x[-1]) would give me 'h'
+
+
