@@ -1,0 +1,77 @@
+TECHNICAL QUESTIONS:
+
+
+HOW DO I PREPARE:
+__________________
+	
+	- Practice *solving* the problems... memorizing the solutions won't do anything.
+	- How to approach these problems:
+		1. Try to solve it
+			a. They're designed to be tough!! Think about Space/Time comp.
+		2. Write the code on paper:
+			a. Get used to doing these things with no tools or syntax stuff
+		3. Test your code -- on paper:
+			a. Test general cases, base cases, error cases, etc.
+		4. Type your paper code as-is into the IDE:
+			a. Start a list of all your fuck ups...
+
+NEED TO KNOW:
+___________________
+
+	Core DS, A, and Concepts (Absolute, must have)
+	
+	Data Structures:
+		1. Linked Lists
+		2. Trees, tries, and graphs
+		3. Heaps
+		4. Vectors and Array Lists
+		5. Hash Tables
+
+	Algos:
+		1. Breadth-First Search
+		2. Depth-First Search
+		3. Binary Search
+		4. Quick Sort
+
+	Concepts:
+		1. Bit Manipulation
+		2. Stack vs. Heap
+		3. Recursion
+		4. Dynamic Programming
+		5. Big O Time and Space
+	
+	** Know how to use them, implement, and the T/S Comp
+	*** TO DO: Make a Quizlet with some of these
+
+	EXERCISES: Practice implementing the DS/A on paper and then on computer. It'll help getting to know how they work, which is super important for tons of interviews.
+
+
+BE FAMILIAR WITH:
+__________________
+	
+	- Power of 2s table!
+		a. Why? You'll be able to compute cool stuff during the interview which can win you some points.
+
+WALKING THROUGH A PROBLEM:
+__________________
+
+	**
+	BUD OPTIMIZATION:
+	B - ottlenecks
+	U - nnecessary Work
+	D - uplicated Work
+
+	This is for the Optimize step
+	**
+
+	1. Listen: Pay close attention to the info and the description. You'll need all the info.
+	2. Example: Too small or special cases... **DEBUG THE EXAMPLE**
+	3. Brute Force: Get a brute force solution ASAP.
+		- State a naive algo and its runtime, then optimize, but don't code yet
+	4. Optimize: Walk through with the BUD Optimization
+		- Look for unused information
+		- Solve it manually on an example then reverse engineer
+		- Solve it incorrectly and then think about why it fails
+		- Make time vs. space tradeoff. Hash tables can be useful
+
+j
