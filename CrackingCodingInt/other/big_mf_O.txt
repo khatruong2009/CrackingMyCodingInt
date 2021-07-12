@@ -1,0 +1,50 @@
+BIG O NOTATION!:
+________________	
+
+	What is it?
+		1. Big O time is the language and metric used to depict algorithmic efficiency!
+			a. Not understanding it can hinder algo development because you'll have an inefficient basis
+			b. You'll be eaten alive in an interview because it's a prime question following a solution.
+
+Analogy for understanding:
+	- File on your SSD that you need to get to a friend.
+		a. Most say email, ftp, or something else... but it's half correct
+	- If it's a small file, all of the options would beat out getting on a flight and doing it by hand
+	- BUT.... what if the file was large and had to be on an actual drive?
+		a. If cost wasn't an issue, it might be faster just to fly.
+		b. If it's too big to doing electronically and you can drive it, then this.
+
+	TIME COMPLEXITY:
+	Electronic Transfer: O(s) where s is the size of the file. This means that the time taken is relative to the completion. The time increases as the file size increases. 
+
+	Airplane Transfer: O(1) with respect to the size of the file. As the file increases, it won't necessarily take any longer for the file to get to its destination.
+
+	COME BACK TO THIS.....
+
+Big O, Big Theta, Big Omega:
+___________________________
+	Big O: Representative of the higher bound
+	Big Theta: Representative of the lower bound
+	Big Omega: It's Big Theta is both O(n) and *omega*(N). IDFK...
+
+EX.... Quick Sort:
+___________________________
+
+	#TO DO.... Description of Quick Sort
+	Best Case: If all elements are equal, then quick sort just goes through once. If it's O(n) ((Depends on the implementation of Quick Sort)
+	Worst Case: If you get unlucky.... and the pivot is the biggest element in the array. This goes to O(N^2) runtime.
+	Expected Case: In all things equal, we can expect a runtime of O(n Log N)
+	
+	1. We don't use best case frequently, but it can't hurt to know
+	2. For most, the worst and best case is the same
+
+SPACE COMPLEXITY:
+______________________
+
+# We can't only look at time, space ((Memory)) is also super important
+
+	1. Space complexity is a parallel concept.
+	2. If you need to create an area of o(n) size, we need o(n) space.
+		a. if you need of size N x N, it's O(n^2)
+
+You add the run times for two seperated for loops, but a loop within a loop is going to produce a product (a * b).
