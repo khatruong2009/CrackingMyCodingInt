@@ -1,0 +1,5 @@
+NOTES ON **Crucial** Data Strucutres for Interviews:
+___________________________________________
+
+  Linked Lists:
+    - 
