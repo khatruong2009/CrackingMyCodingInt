@@ -32,6 +32,16 @@ you can also use .remove() to remove the first matching value within the list.
 This begins at index[0]  
 
 
+"""
+for i in range(len(LIST)):
+
+do your operations on the value at the index element...
+ex: blah = sum(someList[i])
+
+"""
+
+
+
 append()	Adds an element at the end of the list
 clear()	Removes all the elements from the list
 copy()	Returns a copy of the list
