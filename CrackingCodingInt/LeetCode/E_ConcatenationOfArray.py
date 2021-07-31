@@ -22,3 +22,13 @@ class Solution:
  		For every item in the list, up until the last index in the original list,
 		take the term and then duplicate it.
 		"""
+		
+		# Solution 1 = return nums + nums (47ms)
+		
+		"""
+		Solution 2
+		
+		nums.extend(nums)
+		return nums
+		"""
+		return nums + nums
