@@ -4,36 +4,24 @@
  */
  var maxProfit = function(prices) {
     
-  if (prices.length < 2) {
-      return 0;
-  };
-  
-  let profits = [];
-  
-  for (let i = 0; i < prices.length - 1; i++) {
-      
-      //copy of original array to mutate
-      let prices2 = [...prices];
-      
-      //buy price (shifts every time)
-      let buy = prices[i];
-      //console.log("Buy: " + buy);
-      
-      //splices array so only the days ahead will be included
-      let futureDays = prices2.splice(prices.indexOf(buy), (prices2.length - prices.indexOf(buy)));
-      
-      let sell = Math.max(...futureDays);
-      //console.log("Sell: " + sell);
-      
-      let profit = sell - buy;
-      
-      profits.push(profit);
-      
-      //console.log(profits);
-      
-  }
-  
-  return Math.max(...profits);
+    //set the min as the maximum value
+    let min = Number.MAX_VALUE;
+    //initialize max profit as 0
+    let max = 0;
+    
+    //go through each price in the array
+    for (let i = 0; i < prices.length; i++) {
+        //if the next price in the array is below the minimum, set the price as the new minimum
+        if (prices[i] < min) {
+            min = prices[i];
+        // else, if the new price - the minimum is higher than the maximum stored profit, set the new profit as the max profit
+        } else if (prices[i] - min > max) {
+            max = prices[i] - min;
+        }
+        //if neither of these conditions are true that means there is no maximum profit so the function returns 0
+    }
+    
+    return max;
 
-  
+    
 };
